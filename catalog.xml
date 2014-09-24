@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://www.cognosco.gr/HandsOnWorkShop/HandsOnService?wsdl" uri="xml-resources/web-service-references/HandsOnService/wsdl/www.cognosco.gr/HandsOnWorkShop/HandsOnService.wsdl"/>
+    <system systemId="http://www.cognosco.gr:80/HandsOnWorkShop/HandsOnService?xsd=1" uri="xml-resources/web-service-references/HandsOnService/wsdl/www.cognosco.gr_80/HandsOnWorkShop/HandsOnService.xsd_1.xsd"/>
+</catalog>
